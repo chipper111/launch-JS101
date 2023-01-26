@@ -1,8 +1,8 @@
 # launch-JS101
 ## Lesson 2: Small Programs
 
-1	Introduction	
-2	Style Guide	
+* 1	Introduction	
+* 2	Style Guide	
 3	Set up a new directory for this lesson	
 4	Truthiness	
 5	Walk-through: Calculator	
